@@ -17,19 +17,22 @@
 <h4 align="center">Frameworks and Tools</h4>
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> Tensorflow
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> PyTorch
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> Tensorflow
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/> Pandas 
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/> Numpy 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> Scikit learn 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/> Docker 
  </p>
  
  <p align="center">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/> Docker 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/> Node.js 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> Flask 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgres 
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40"/> FastAPI 
+</p>
+
+ <p align="center">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> Postman 
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> Git  
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/> Linux 
