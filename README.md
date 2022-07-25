@@ -29,11 +29,20 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/> Node.js 
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> Flask 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgres 
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40"/> FastAPI 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> Postman 
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> Git  
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/> Linux 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> Postman 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> Heroku
-  
-  
-  
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/> Heroku 
 </p>
+
+## My Works
+
+🤖 [Humanoid AI Walker](https://github.com/iamvigneshwars/ai-walkers-ppo-pytorch)
+ * Developed a Humanoid AI agent that learned to walk by learning to control its 17 joints without any given data. 
+ * Implemented the proximal policy optimization algorithm for the agent using PyTorch.
+ 
+👀 [Skim Unstructured Litrature Abstracts](https://github.com/iamvigneshwars/skim-unstructured-medical-abstracts)
+ * Unstructured abstracts can be hard to skim. When the abstract contains more than 50 sentences, it is difficult to extract just the required information.
+ * Developed a web app that highlights only the sentence predicted as a user’s section of interest in such abstracts using neural networks.
+ * Reduced 90% of the time required to extract only the required information from such abstracts. 
